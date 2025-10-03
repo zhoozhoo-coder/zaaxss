@@ -1,2 +1,2 @@
 Install:
-go install github.com/zhoozhoo-coder/zaaxss
+go install github.com/zhoozhoo-coder/zaaxss@latest
